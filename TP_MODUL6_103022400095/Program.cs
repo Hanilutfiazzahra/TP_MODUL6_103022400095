@@ -10,5 +10,13 @@ class Program
         track1.IncreasePlayCount(100);
         track1.PrintTrackDetails();
 
+        SayaMusikTracks track2 = new SayaMusikTracks("Di Sudut Purnama - Pendarra");
+        for (int i = 0; i < 300; i++)
+        {
+            track2.IncreasePlayCount(10000000);
+        }
+
+        track2.PrintTrackDetails();
+
     }
 }
