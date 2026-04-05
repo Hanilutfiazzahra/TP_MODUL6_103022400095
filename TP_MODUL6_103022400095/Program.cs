@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("TUGAS PENDAHULUAN MODUL 6 KONSTRUKSI PERANGKAT LUNAK");
